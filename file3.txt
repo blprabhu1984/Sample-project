@@ -1,2 +1,0 @@
-file3 modified
-adding another entry in file3
